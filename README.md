@@ -1,1 +1,1 @@
-# streamlit-stockprediction
+# streamlit-to-heroku
